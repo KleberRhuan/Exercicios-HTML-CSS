@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  height: 100%;
+  width: 100%;
+}
+
+nav.box{
+  height: 6vh;
+  background: #292424;
+  width: 100%;
+  color: lightgray;
+  overflow: hidden;
+  text-align: center;
+  line-height: 2vh;
+}
+
+ul.box{
+  list-style: none;
+  margin: auto;
+}
+
+li.box{
+  float: left;
+  padding: 10px;
+
+}
+
+li.box:hover{
+  color: white;
+  cursor: pointer;
+}
+
