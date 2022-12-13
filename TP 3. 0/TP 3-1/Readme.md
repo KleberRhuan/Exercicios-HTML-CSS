@@ -1,1 +1,1 @@
-aplicação de cor Hexadecimal
+Aplicação de cor Hexadecimal
