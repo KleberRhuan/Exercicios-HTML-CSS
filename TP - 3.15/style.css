@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+table, td, th, tr{
+  border:1px solid black;
+}
+
+table{
+  border-spacing: 0;
+}
+
+thead{
+  background-color: #869960;
+  color: white;
+  height: 30%;
+}
+
+td{
+  text-align: center;
+}
+
+td.box{
+  text-align: left;
+}
+
+.td1{
+  background: #E7E7E7;
+}
