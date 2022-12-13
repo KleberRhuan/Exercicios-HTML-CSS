@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  width: 100%;
+  height: 100%;
+}
+
+div.card{
+  margin: auto;
+  width: 30%;
+  height: 10%;
+  border: 2px solid;
+  border-color:  rgb(25, 150, 190);
+}
